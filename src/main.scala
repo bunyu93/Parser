@@ -18,7 +18,7 @@ class Parser
   } 
 }
 
-object main {
+object main { 
   def main(args:Array[String]):Unit=
   {
     val input = readLine("give a input ")
